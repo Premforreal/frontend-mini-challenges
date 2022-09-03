@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.bg{
+  background : url('pexels-karolina-grabowska-5477784.jpg') no-repeat center center/cover;
+  position: absolute;
+  top: -30px; /*top and left to prevent white color of edges from bleeding in*/
+  left: -30px;
+  width:calc(100vw + 60px);
+  height: calc(100vh + 60px);
+  z-index : -1;
+  filter: blur(100px);
+
+}
+
+
+.loading-text{
+font-size:50px;
+color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
