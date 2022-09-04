@@ -9,7 +9,7 @@ Some mini projects for practice.
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/28.%20Github%20Profiles/index.html" > Github Profiles</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/3.%20Rotating%20Navigation/index.html" > Rotating Navigation</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/30.%20Auto%20Text%20Effect/index.html" > Auto Text Effect</a></li>
-  <li><a href="https://premforreal.github.io/frontend-mini-challenges/31.%20Password%20Generator/index.html" > Passwrod Generator</a></li>
+  <li><a href="https://premforreal.github.io/frontend-mini-challenges/31.%20Password%20Generator/index.html" > Password Generator</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/35.%20Image%20Carousel/index.html" > Image Carousel</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/39.%20Password%20Strength%20Background/index.html" > Passwrod Strength Background/a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/4.%20Hidden%20Search%20Widget/index.html" > Hidden Search Widget</a></li>
