@@ -1,6 +1,6 @@
 # frontend-mini-challenges
 Some mini projects for practice.
-<ol>
+<ul>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/16.%20Drink%20Water/index.html">Drink Water</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/19.%20Theme%20Clock/index.html"> Theme Clock</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/2.%20Progress%20Steps/index.html">  Progress Steps </a></li>
@@ -19,4 +19,4 @@ Some mini projects for practice.
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/6.%20Scrolling%20Animation/index.html">Scrolling Animation</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/8.%20Form%20Wave%20Animation/index.html">Form Wave Animation</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/Guess%20The%20Number/index.html">Guess The Number</a></li>
-</ol> 
+</ul> 
