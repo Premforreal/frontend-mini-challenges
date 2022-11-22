@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess The Number</title>
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+    <div class="header" id="light">
+        <h1>Light and Dark mode</h1>
+    </div>
+    
+    <div class="outer" id="light">
+        <div>
+            <input id="checkbox-outer" type="checkbox" >
+            <label for="checkbox-outer">Dark mode</label><br>
+            <h1>This entire page theme is controlled by using CSS and JavaScript.</h1>
+        </div>
+
+        <div class="inner">
+            <input id="checkbox" type="checkbox" >
+            <label for="checkbox">Dark mode (only CSS)</label><br>
+            <div class="container" id="light">
+                <h1>This container theme is controlled by only CSS.</h1>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
