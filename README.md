@@ -19,4 +19,5 @@ Some mini projects for practice.
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/6.%20Scrolling%20Animation/index.html" target="_blank">Scrolling Animation</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/8.%20Form%20Wave%20Animation/index.html" target="_blank">Form Wave Animation</a></li>
   <li><a href="https://premforreal.github.io/frontend-mini-challenges/Guess%20The%20Number/index.html" target="_blank">Guess The Number</a></li>
+  <li><a href="https://premforreal.github.io/frontend-mini-challenges/13.%20random-choice-picker/index.html" target="_blank">Random Choice Picker</a></li>
 </ul> 
